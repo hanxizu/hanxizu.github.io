@@ -11,3 +11,6 @@
 
 </p> 
 
+
+## 关于公众号
+ < img  src = " https://baiduspider.github.io/qrcode_for_gh_e91f91ce4725_258.jpg "  alt = "公众号" 宽度= "300" 高度= "300" >
