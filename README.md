@@ -13,5 +13,4 @@
 
 ## 关于公众号
 
-
-！[doc.jpg] (https://github.com/hanxizu/hanxizu.github.io/blob/master/qrcode_for_gh_e91f91ce4725_258.jpg)
+！[image.jpg] (https://github.com/hanxizu/hanxizu.github.io/blob/master/qrcode_for_gh_e91f91ce4725_258.jpg)
