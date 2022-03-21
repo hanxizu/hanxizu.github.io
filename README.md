@@ -15,5 +15,5 @@
 
 
 <p align="center"> 
-  您是第  <img src="https://github.com/hanxizu/hanxizu.github.io/blob/master/qrcode_for_gh_e91f91ce4725_258.jpg" />位访问者
+  <img src="https://github.com/hanxizu/hanxizu.github.io/blob/master/qrcode_for_gh_e91f91ce4725_258.jpg" />
 </p>
